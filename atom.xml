@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://powerformer.com/"/>
-  <updated>2017-03-20T11:03:17.000Z</updated>
+  <updated>2017-03-20T11:12:54.000Z</updated>
   <id>http://powerformer.com/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://powerformer.com/2017/03/20/The-second/"/>
     <id>http://powerformer.com/2017/03/20/The-second/</id>
     <published>2017-03-20T10:57:50.000Z</published>
-    <updated>2017-03-20T11:03:17.000Z</updated>
+    <updated>2017-03-20T11:12:54.000Z</updated>
     
     <content type="html"><![CDATA[<h3 id="接下来的写作计划"><a href="#接下来的写作计划" class="headerlink" title="接下来的写作计划"></a>接下来的写作计划</h3><ul>
 <li>VSCode的深入使用</li>
@@ -42,6 +42,10 @@
     
     </summary>
     
+      <category term="想法" scheme="http://powerformer.com/categories/%E6%83%B3%E6%B3%95/"/>
+    
+    
+      <category term="想法" scheme="http://powerformer.com/tags/%E6%83%B3%E6%B3%95/"/>
     
   </entry>
   
@@ -50,7 +54,7 @@
     <link href="http://powerformer.com/2017/03/20/The-first/"/>
     <id>http://powerformer.com/2017/03/20/The-first/</id>
     <published>2017-03-20T08:27:25.000Z</published>
-    <updated>2017-03-20T11:02:09.000Z</updated>
+    <updated>2017-03-20T11:12:31.000Z</updated>
     
     <content type="html"><![CDATA[<h3 id="我现在的技术方向是"><a href="#我现在的技术方向是" class="headerlink" title="我现在的技术方向是"></a>我现在的技术方向是</h3><figure class="highlight"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">前端: React技术栈</div><div class="line">后端：NodeJs</div></pre></td></tr></table></figure>
 <h3 id="接下来的想法大致是"><a href="#接下来的想法大致是" class="headerlink" title="接下来的想法大致是"></a>接下来的想法大致是</h3><ul>
