@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://powerformer.com/"/>
-  <updated>2017-03-20T11:12:54.000Z</updated>
+  <updated>2017-03-24T00:17:37.000Z</updated>
   <id>http://powerformer.com/</id>
   
   <author>
@@ -14,6 +14,249 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>句法的学习之三</title>
+    <link href="http://powerformer.com/2017/03/23/sentence3/"/>
+    <id>http://powerformer.com/2017/03/23/sentence3/</id>
+    <published>2017-03-23T11:38:46.000Z</published>
+    <updated>2017-03-24T00:17:37.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="如何分析句子"><a href="#如何分析句子" class="headerlink" title="如何分析句子"></a>如何分析句子</h2><figure class="highlight"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">英语是靠形合，句内各成分联系紧密，连词必不可少</div></pre></td></tr></table></figure>
+<h3 id="三条规则，一个注意"><a href="#三条规则，一个注意" class="headerlink" title="三条规则，一个注意"></a>三条规则，一个注意</h3><h4 id="第一"><a href="#第一" class="headerlink" title="第一"></a>第一</h4><figure class="highlight mipsasm"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div></pre></td><td class="code"><pre><div class="line">当一个句子出现了两个或两个以上主谓结构时或者出现了两个或两个以上的分句（可视一个主谓结构为一个分句），应有一个连词或具有连接能力的词（即关系词，引导定语从句的词）来连接这些分句，其连接作用的词除了wh-词外，还有<span class="keyword">and、but、since、than等连词。</span></div><div class="line"></div><div class="line">eg.句中的<span class="keyword">because不能少</span></div><div class="line"><span class="keyword">John </span><span class="keyword">didn't </span>attend the meeting <span class="keyword">because </span>he was ill.</div></pre></td></tr></table></figure>
+<h4 id="第二"><a href="#第二" class="headerlink" title="第二"></a>第二</h4><figure class="highlight arduino"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div></pre></td><td class="code"><pre><div class="line">一个句子只能有一个（限定）动词（词组）做谓语。</div><div class="line">若出现两个或两个以上动词时，要么用一个连接词或具有连接能力的词（如关系词）来连接；要么对其中一个动词进行非谓语处理，即处理成不定式，现在分词或过去分词</div><div class="line"></div><div class="line">eg.</div><div class="line">Turning about, she saw her husband </div><div class="line">句中的<span class="built_in">turn</span>和saw两个动词，中间无连接词，所以句中的turning不能是<span class="built_in">turn</span></div></pre></td></tr></table></figure>
+<h4 id="第三"><a href="#第三" class="headerlink" title="第三"></a>第三</h4><figure class="highlight vbnet"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line">what, <span class="keyword">when</span>, <span class="keyword">where</span>, why, whom, how, which 等 wh-词除了有连接两个分句的作用外，其本身还在从句中占一个位置</div><div class="line"></div><div class="line">eg.</div><div class="line"><span class="keyword">Do</span> you know what he called <span class="keyword">me</span></div><div class="line">句中有know和<span class="keyword">call</span>两个动词，所以需要what来连接，引导词what在what从句中做补语，what从句在句中做宾语</div></pre></td></tr></table></figure>
+<h4 id="一个注意"><a href="#一个注意" class="headerlink" title="一个注意"></a>一个注意</h4><figure class="highlight applescript"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div></pre></td><td class="code"><pre><div class="line"><span class="keyword">that</span>这个词比较特殊，</div><div class="line"><span class="number">1</span>、一是起连接作用</div><div class="line"><span class="number">2</span>、在引导从句的时候，有时可以省略</div><div class="line">eg.</div><div class="line">I think you are very brave</div><div class="line">I think A, your are B 这两个分句，为什么没有连接词呢？答案是：被省略掉了，句子应该是I think <span class="keyword">that</span> you're very brave,</div><div class="line"></div><div class="line">但因为<span class="keyword">that</span>在引导宾语从句、主语补语从句（表语从句）通常被省略</div></pre></td></tr></table></figure>
+<h3 id="分析句子两步走"><a href="#分析句子两步走" class="headerlink" title="分析句子两步走"></a>分析句子两步走</h3><h4 id="第一步"><a href="#第一步" class="headerlink" title="第一步"></a>第一步</h4><figure class="highlight autohotkey"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">快速找到句子中的`主语`和`谓语`，快速的搞清楚`从句担当的句子成分`或`依附对象`</div><div class="line"></div><div class="line">这是一个综合分析的过程，需要结合句中局部词，词组的意思，有时还需要结合上下文</div></pre></td></tr></table></figure>
+<h4 id="第二步"><a href="#第二步" class="headerlink" title="第二步"></a>第二步</h4><figure class="highlight"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">根据译文，确认自己对句子结构和句子意思的理解是否正确</div></pre></td></tr></table></figure>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;如何分析句子&quot;&gt;&lt;a href=&quot;#如何分析句子&quot; class=&quot;headerlink&quot; title=&quot;如何分析句子&quot;&gt;&lt;/a&gt;如何分析句子&lt;/h2&gt;&lt;figure class=&quot;highlight&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;
+    
+    </summary>
+    
+      <category term="句法的学习" scheme="http://powerformer.com/categories/%E5%8F%A5%E6%B3%95%E7%9A%84%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+      <category term="English" scheme="http://powerformer.com/tags/English/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>react</title>
+    <link href="http://powerformer.com/2017/03/23/react/"/>
+    <id>http://powerformer.com/2017/03/23/react/</id>
+    <published>2017-03-23T02:06:02.000Z</published>
+    <updated>2017-03-23T11:38:34.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="现在学了"><a href="#现在学了" class="headerlink" title="现在学了"></a>现在学了</h2><ul>
+<li>React</li>
+<li>Redux</li>
+<li>react-redux</li>
+<li>react-router</li>
+<li>middleware</li>
+<li>webpack</li>
+<li>npm</li>
+<li>yarn</li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;现在学了&quot;&gt;&lt;a href=&quot;#现在学了&quot; class=&quot;headerlink&quot; title=&quot;现在学了&quot;&gt;&lt;/a&gt;现在学了&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;React&lt;/li&gt;
+&lt;li&gt;Redux&lt;/li&gt;
+&lt;li&gt;react-redux&lt;/li&gt;
+&lt;li&gt;react
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>句法学习之二 -- 句式</title>
+    <link href="http://powerformer.com/2017/03/22/sentence2/"/>
+    <id>http://powerformer.com/2017/03/22/sentence2/</id>
+    <published>2017-03-22T12:00:52.000Z</published>
+    <updated>2017-03-23T12:56:06.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="句式"><a href="#句式" class="headerlink" title="句式"></a>句式</h2><figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">定义：即句子的形式</div></pre></td></tr></table></figure>
+<h2 id="句子的分类："><a href="#句子的分类：" class="headerlink" title="句子的分类："></a>句子的分类：</h2><ul>
+<li>简单句：SV/SVC/SVO/SVOC/SVOO</li>
+<li>并列句：SVOC+并列连词+SOVC</li>
+<li>句外句：SVOC+从属连词+SVOC</li>
+</ul>
+<h3 id="简单句"><a href="#简单句" class="headerlink" title="简单句"></a>简单句</h3><figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div><div class="line">21</div><div class="line">22</div><div class="line">23</div><div class="line">24</div></pre></td><td class="code"><pre><div class="line">简单独立分句：</div><div class="line">  一个句子中只有一个分句</div><div class="line">简单复合句：</div><div class="line">  简单独立分句的某成分（状语除外）由分句担当或含有分句</div><div class="line"></div><div class="line">eg.</div><div class="line">  <span class="number">1.</span>SV </div><div class="line">    Tom cried</div><div class="line">  <span class="number">2.</span>SVC</div><div class="line">    This book is good</div><div class="line">  <span class="number">3.</span>SVO</div><div class="line">    Tom hit John</div><div class="line">  <span class="number">4.</span>SVOC</div><div class="line">    Tom calls John fat</div><div class="line">  <span class="number">5.</span>SVOO</div><div class="line">    My dad gave me a book</div><div class="line">  <span class="number">6.</span>复合句 S-svoVO who从句为SVO结构，做句子主语those students的后置定语</div><div class="line">  <span class="string">`某成分包含分句`</span></div><div class="line">    Those students who failed the exam will </div><div class="line">    have to take it again</div><div class="line">  <span class="number">7.</span>复合句 SVO-svoo what从句作句子的宾语，其中引导</div><div class="line">  词what在从句中担当offer的直接宾语</div><div class="line">  <span class="string">`某成分由分句担当`</span></div><div class="line">    He will take what you offer him</div></pre></td></tr></table></figure>
+<h3 id="并列句"><a href="#并列句" class="headerlink" title="并列句"></a>并列句</h3><figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">SVOC + 并列连词 + SVOC型,</div><div class="line">eg. SVO and SV</div><div class="line">I pulled the trigger and the gun went off.</div></pre></td></tr></table></figure>
+<h3 id="句外句"><a href="#句外句" class="headerlink" title="句外句"></a>句外句</h3><figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div></pre></td><td class="code"><pre><div class="line">SVOC + 从属连词 + SVOC</div><div class="line">实际上就是SVOC + 状语从句或者 状语从句 + SVOC</div><div class="line">很明显，状语从句位于句外，即位于（主句）SVOC之外，故把这种结构成为<span class="string">`句外句`</span></div><div class="line">eg.</div><div class="line">  SV + 状语 + 从属连词 + SV (SVOC + 状语从句)</div><div class="line">  <span class="number">1.</span>You can stay to dinner <span class="keyword">if</span> you like</div><div class="line">  从属连词 + 主语 + 系统词（谓） + 补语(表) + 主 + 谓 + 间接宾语 + 直接宾语 If + SVC + SVOO  （状语从句 + SVOC）</div><div class="line">  <span class="number">2.</span>If I was a man they would have given me the job.</div></pre></td></tr></table></figure>
+<h2 id="从句"><a href="#从句" class="headerlink" title="从句"></a>从句</h2><ul>
+<li>定语从句</li>
+<li>状语从句</li>
+<li>名词性从句</li>
+</ul>
+<h3 id="状语从句"><a href="#状语从句" class="headerlink" title="状语从句"></a>状语从句</h3><figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line">当一个分句做另外一个分句的状语时，我们称这个分句为状语从句，亦即状语子句、副词子句，位于句外。</div><div class="line">通常由一个<span class="string">`从属连词`</span>与另外一个分句（主句）连接，解释说明主句所诉事情发生的时间、地点、原因、目的、结果、让步、方式等</div><div class="line">eg.</div><div class="line">  John didn<span class="string">'t'</span> attend the meeting because he was ill</div><div class="line">  When she saw her, he waved.</div></pre></td></tr></table></figure>
+<h3 id="定语从句"><a href="#定语从句" class="headerlink" title="定语从句"></a>定语从句</h3><figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">关系分句，形容词子句，以及关系子句。位于句内</div><div class="line">The clothes that on the floor are dirty.</div></pre></td></tr></table></figure>
+<figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div></pre></td><td class="code"><pre><div class="line"><span class="number">1.</span>定语要么是相当于一个<span class="string">`形容词`</span>作前面某个名词短语的定语</div><div class="line">  The clothes <span class="string">`that on the floor`</span> are dirty.</div><div class="line"><span class="number">2.</span>要么是解释说明其前面的某个名词短语或分句（解释分句的情况非常少见）</div><div class="line">  Mrs Smith, <span class="string">`who has a lot of teaching experience`</span>, will</div><div class="line">  be joining us <span class="keyword">in</span> the spring.</div><div class="line"></div><div class="line">由此可见：</div><div class="line">  <span class="number">1.</span>把相当于一个形容词的定语从句是恰当的，而解释说明作用的分句当</div><div class="line">做定语就不太恰当了。</div><div class="line">  <span class="number">2.</span>定语修饰的是词而不是句，属于词组的范畴。</div></pre></td></tr></table></figure>
+<h3 id="名词性从句"><a href="#名词性从句" class="headerlink" title="名词性从句"></a>名词性从句</h3><figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div></pre></td><td class="code"><pre><div class="line">定义：亦称名词从句、名词子句、名词分句，位于句内。所以必须把分句放到句内名词所处的位置。</div><div class="line"></div><div class="line">因此名词性从句：</div><div class="line">  <span class="number">1.</span>要么担当一个句子的成分（主、宾、主语补语）</div><div class="line">  <span class="number">2.</span>要么做句子的构成成分，即依附于（从属于）句中的某个词或词组（如与介词</div><div class="line">  组成介词词组，与形容词组成形容词词组，与名词组成名词词组或同位结构</div><div class="line">  <span class="number">3.</span>担当（主、宾、主语补语，同位语）即为（主、宾、表，同位语）语从句，</div></pre></td></tr></table></figure>
+<figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div></pre></td><td class="code"><pre><div class="line">按其引导词的不同，名词性从句可分为</div><div class="line">  <span class="number">1.</span>名词性<span class="string">'that'</span>从句</div><div class="line">  <span class="number">2.</span>名词性<span class="string">'wh-'</span>从句</div><div class="line">  <span class="number">3.</span>名词性<span class="string">'if/whether'</span>从句,可归为上一类</div></pre></td></tr></table></figure>
+<h2 id="如何识别从句"><a href="#如何识别从句" class="headerlink" title="如何识别从句"></a>如何识别从句</h2><h3 id="如何识别’定语从句’"><a href="#如何识别’定语从句’" class="headerlink" title="如何识别’定语从句’"></a>如何识别’定语从句’</h3><figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div></pre></td><td class="code"><pre><div class="line"><span class="number">1</span>、定语从句只能作为句子成分的构成成分</div><div class="line"><span class="number">2</span>、在位置上，位于句内</div><div class="line"><span class="number">3</span>、要么相当于一个形容词作前面某个名词短语的定语，要么解释</div><div class="line">说明其前面某个名词短语</div></pre></td></tr></table></figure>
+<figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div></pre></td><td class="code"><pre><div class="line"><span class="number">1</span>、定语从句必须有一个修饰对象，即先行项</div><div class="line"><span class="number">2</span>、这个先行项必须在定语从句的前面</div><div class="line"><span class="number">3</span>、这个先行项还必须在定语从句中有一个座位可坐，这个座位</div><div class="line">通常是一从句的一个独立成分，如<span class="string">'主语'</span>,也可以是从句的构成成分</div></pre></td></tr></table></figure>
+<figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div></pre></td><td class="code"><pre><div class="line"><span class="number">1</span>、如果先行项在从句中没有座位可坐，就直接排除了定语从句的可能性</div><div class="line"><span class="number">2</span>、因此有名词的地方才有可能有定语存在</div><div class="line"><span class="number">3</span>、定语从句不能独立存在，必须依赖于名词</div><div class="line"><span class="number">4</span>、定语从句的这种依赖性，不独立就决定他只能做某句子的构成成分</div></pre></td></tr></table></figure>
+<figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">先行项不同可以把定语从句细分为：</div><div class="line">  <span class="string">'句子性定语从句'</span>:先行项为分句（不常见）</div><div class="line">  <span class="string">'关系性定语从句'</span>：先行项为名词短语（常见）</div></pre></td></tr></table></figure>
+<h3 id="如何识别名词性从句"><a href="#如何识别名词性从句" class="headerlink" title="如何识别名词性从句"></a>如何识别名词性从句</h3><figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line"><span class="number">1</span>、名词性从句可独立担当句子成分</div><div class="line"></div><div class="line"><span class="number">2</span>、也可作为句子的构成成分，在位置上与定语从句一样，位于句内，</div><div class="line"></div><div class="line"><span class="number">3</span>、动词后的从句通常是名词性从句</div></pre></td></tr></table></figure>
+<figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div></pre></td><td class="code"><pre><div class="line">名词性从句没有先行项，因此其自身就担当着名词短语的作用</div><div class="line"><span class="number">1</span>、做主语即为主语从句</div><div class="line">  <span class="string">`What money I have`</span> will be yours when I die</div><div class="line"><span class="number">2</span>、做宾语即为宾语从句</div><div class="line">  He didn<span class="string">'t'</span> know <span class="string">`whether/if we should write or phone`</span></div><div class="line"><span class="number">3</span>、做主语补语，即表语</div><div class="line">  That is <span class="string">`why I came early`</span>.</div><div class="line"><span class="number">4</span>、与介词组成介词词组</div><div class="line">  She walked up to <span class="string">`where he stood`</span>.</div><div class="line"><span class="number">5</span>、补充说明形容词</div><div class="line"><span class="number">6</span>、做同位语</div></pre></td></tr></table></figure>
+<h3 id="如何识别状语从句"><a href="#如何识别状语从句" class="headerlink" title="如何识别状语从句"></a>如何识别状语从句</h3><figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div></pre></td><td class="code"><pre><div class="line"><span class="number">1</span>、状语从句独立担当句子成分，相当于一个副词，做句子的状语，</div><div class="line">位于句外，也就是<span class="string">'句首'</span>，或<span class="string">'句末'</span></div><div class="line"></div><div class="line">eg.</div><div class="line">  When he saw her, he waved.</div><div class="line"></div><div class="line"><span class="number">2</span>、状语从句很好区分，一是位置上：只能在句首或句末</div><div class="line">        二是：有我们熟悉的引导词，比如，because</div></pre></td></tr></table></figure>
+<h3 id="以上的规律并非绝对"><a href="#以上的规律并非绝对" class="headerlink" title="以上的规律并非绝对"></a>以上的规律并非绝对</h3><figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line">比如it be + 名词 + that/who分裂结构中</div><div class="line">从句前的名词则是作句子的主语或宾语</div><div class="line">eg.</div><div class="line">  It was <span class="string">`Tom`</span> that/who shot a bear yesterday.(主语)</div><div class="line">  It was <span class="string">`a bear`</span> that Tom shot yesterday.（强调宾语）</div></pre></td></tr></table></figure>
+<h3 id="存在句"><a href="#存在句" class="headerlink" title="存在句"></a>存在句</h3><figure class="highlight lsl"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line"><span class="number">1</span>、存在句是一种以there作形式主语的句型，表示要引出新的话题</div><div class="line"><span class="number">2</span>、这里只谈存在句的谓语动词和实义主语后面的修饰语</div></pre></td></tr></table></figure>
+<h3 id="存在句的谓语动词"><a href="#存在句的谓语动词" class="headerlink" title="存在句的谓语动词"></a>存在句的谓语动词</h3><figure class="highlight rust"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div></pre></td><td class="code"><pre><div class="line"><span class="number">1</span>、是<span class="keyword">be</span>的一定时态</div><div class="line"><span class="number">2</span>、也可是是情态动词+<span class="keyword">be</span> </div><div class="line"><span class="number">3</span>、其也用来表示存在、发生、出现、坐落等意义的其他词</div><div class="line">作谓语动词</div><div class="line">  比如：exist、come、rise、occur、lie、stand、live</div><div class="line"><span class="number">4</span>、还经常使用如下结构</div><div class="line">  <span class="number">1</span>、there<span class="symbol">'s</span> going to <span class="keyword">be</span></div><div class="line">  <span class="number">2</span>、there<span class="symbol">'s</span> to <span class="keyword">be</span></div><div class="line">  <span class="number">3</span>、there<span class="symbol">'s</span> sure to <span class="keyword">be</span></div><div class="line">  <span class="number">4</span>、there<span class="symbol">'s</span> likely to <span class="keyword">be</span></div><div class="line">  <span class="number">5</span>、there seems to <span class="keyword">be</span></div><div class="line">  <span class="number">6</span>、there appears to <span class="keyword">be</span>(= it appears that)</div><div class="line">  <span class="number">7</span>、there has to <span class="keyword">be</span></div></pre></td></tr></table></figure>
+<h3 id="存在句实义主语后面的修饰语"><a href="#存在句实义主语后面的修饰语" class="headerlink" title="存在句实义主语后面的修饰语"></a>存在句实义主语后面的修饰语</h3><figure class="highlight livecodeserver"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div></pre></td><td class="code"><pre><div class="line">存在句的主题部分“There be” + 名词短语 + 状语/定语从句/不定式</div><div class="line">    /ed分词短语/ing分词短语</div><div class="line"></div><div class="line">eg.</div><div class="line">  There was <span class="keyword">a</span> strong wind <span class="keyword">last</span> night(状语)</div><div class="line">  There are <span class="keyword">a</span> few things we need <span class="built_in">to</span> discuss(定语从句)</div><div class="line">  There remain several questions still <span class="built_in">to</span> be answered.(不定式)</div><div class="line">  There is <span class="keyword">a</span> man sitting <span class="keyword">on</span> <span class="title">that</span> <span class="title">fence</span>.(<span class="title">ing</span>分词短语)</div><div class="line">  There was <span class="keyword">a</span> ship sunk <span class="keyword">last</span>.(ed分词短语)</div></pre></td></tr></table></figure>
+<h3 id="存在句的非限定形式"><a href="#存在句的非限定形式" class="headerlink" title="存在句的非限定形式"></a>存在句的非限定形式</h3><figure class="highlight vim"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div></pre></td><td class="code"><pre><div class="line">there <span class="keyword">to</span> <span class="keyword">be</span> 或 there being 这种非谓语形式，亦称非限定形式</div><div class="line">其句法功能如下：</div><div class="line">  <span class="number">1</span>、做主语（there being形式的作主语只能位于句首），</div><div class="line">  there not being <span class="keyword">an</span> <span class="built_in">index</span> <span class="keyword">to</span> this book <span class="keyword">is</span> <span class="keyword">a</span> disadvantage.</div><div class="line">  <span class="number">2</span>、做宾语，（能接 there <span class="keyword">to</span> <span class="keyword">be</span>作宾语的并不多）</div><div class="line">  常见的词可以采取：expect,want,intend,mean,like,hate,prefer</div><div class="line">  例如：I want there <span class="keyword">to</span> <span class="keyword">be</span> <span class="keyword">no</span> mistake about this</div><div class="line">  <span class="number">3</span>、与介词组成介词短语</div><div class="line">    如果介词是<span class="keyword">for</span>，则与there <span class="keyword">to</span> <span class="keyword">be</span>组成介词短语</div><div class="line">      The secretary was waiting <span class="keyword">for</span> there <span class="keyword">to</span> <span class="keyword">be</span> <span class="built_in">complete</span> silence</div><div class="line">    如果是其他介词，则与there being组成介词短语</div><div class="line">      Tom was relying <span class="keyword">on</span> there being another opportunity.</div><div class="line">  <span class="number">4</span>、做状语</div><div class="line">    There being <span class="keyword">no</span> further business, the chairman closed the meeting at <span class="number">11</span>:<span class="number">30</span></div></pre></td></tr></table></figure>
+<h3 id="SVC结构与被动结构区分"><a href="#SVC结构与被动结构区分" class="headerlink" title="SVC结构与被动结构区分"></a>SVC结构与被动结构区分</h3><figure class="highlight lsl"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div></pre></td><td class="code"><pre><div class="line"><span class="number">1</span>、即主、谓、补语结构与被动语态结构的区分</div><div class="line"><span class="number">2</span>、有些ed分词已经形容词化了，从而be + ed 既可以表示被动（be为助动词），</div><div class="line">  也可以表示状态，即构成主谓补的形式（亦即主系表关系）</div><div class="line"><span class="number">3</span>、判断以上是哪一种要根据具体的语境</div></pre></td></tr></table></figure>
+<h4 id="判断的三点"><a href="#判断的三点" class="headerlink" title="判断的三点"></a>判断的三点</h4><figure class="highlight applescript"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div></pre></td><td class="code"><pre><div class="line">一、如果ed之前带修饰语，表示弱化或强化，如very，通常为系表结构</div><div class="line">  eg. SVC</div><div class="line">    He got very annoyed <span class="keyword">with</span> <span class="keyword">me</span> <span class="keyword">about</span> <span class="keyword">my</span> carelessness</div><div class="line">二、如果ed后面跟有介词<span class="keyword">by</span>短语，那便是被动结构。</div><div class="line">  <span class="number">1</span>、eg.SV</div><div class="line">    I was annoyed <span class="keyword">by</span> his insensitive remarks.（<span class="keyword">by</span>做状语）</div><div class="line">    直译<span class="number">1</span>：他那些没分寸的话使我很生气</div><div class="line">    直译<span class="number">2</span>：我被他那些没有分寸的话搞生气了</div><div class="line">  <span class="number">2</span>、但也不能绝对</div><div class="line">    eg.</div><div class="line">    <span class="number">1</span>、The city was surrounded <span class="keyword">by</span> enemy troops（was surrouned为被动）</div><div class="line">    <span class="number">2</span>、Waiwan was surrounded <span class="keyword">by</span> sea（was surrounded表示一种自然状态，故为系表结构）</div><div class="line">三、ed分词之后如果跟有除<span class="keyword">by</span>短语外的其它介词，一般是系表结构。</div><div class="line">  eg.SVC</div><div class="line">  I got accustomed <span class="keyword">to</span> his strange ways.</div></pre></td></tr></table></figure>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;句式&quot;&gt;&lt;a href=&quot;#句式&quot; class=&quot;headerlink&quot; title=&quot;句式&quot;&gt;&lt;/a&gt;句式&lt;/h2&gt;&lt;figure class=&quot;highlight javascript&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;
+    
+    </summary>
+    
+      <category term="句法的学习" scheme="http://powerformer.com/categories/%E5%8F%A5%E6%B3%95%E7%9A%84%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+      <category term="English" scheme="http://powerformer.com/tags/English/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>webpack</title>
+    <link href="http://powerformer.com/2017/03/22/webpack/"/>
+    <id>http://powerformer.com/2017/03/22/webpack/</id>
+    <published>2017-03-22T02:26:24.000Z</published>
+    <updated>2017-03-22T02:27:36.000Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="webpack"><a href="#webpack" class="headerlink" title="webpack"></a><a href="http://zhaoda.net/webpack-handbook/reference.html" target="_blank" rel="external">webpack</a></h3>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;webpack&quot;&gt;&lt;a href=&quot;#webpack&quot; class=&quot;headerlink&quot; title=&quot;webpack&quot;&gt;&lt;/a&gt;&lt;a href=&quot;http://zhaoda.net/webpack-handbook/reference.html&quot; targe
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>句法的学习之一 --句子的五大成分</title>
+    <link href="http://powerformer.com/2017/03/21/sentence/"/>
+    <id>http://powerformer.com/2017/03/21/sentence/</id>
+    <published>2017-03-21T12:01:34.000Z</published>
+    <updated>2017-03-22T12:37:42.000Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="句子有五大成分"><a href="#句子有五大成分" class="headerlink" title="句子有五大成分"></a>句子有五大成分</h3><ul>
+<li>主语(Subject)</li>
+<li>谓语(Verb)</li>
+<li>宾语(Object)</li>
+<li>补语(Complemnet)</li>
+<li>状语(Predicate)</li>
+</ul>
+<h3 id="主语"><a href="#主语" class="headerlink" title="主语"></a>主语</h3><figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div></pre></td><td class="code"><pre><div class="line">通常位于句首</div><div class="line"></div><div class="line">相当于句子的话题</div><div class="line"></div><div class="line">是信息传递的出发点</div><div class="line"></div><div class="line">是全句述说的对象</div></pre></td></tr></table></figure>
+<figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">一般由<span class="string">`名词`</span>、或相当于<span class="string">`名词性的词`</span>、<span class="string">`词组`</span>及<span class="string">`分局`</span>担当</div></pre></td></tr></table></figure>
+<figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">eg. SV 结构</div><div class="line">  <span class="string">`Tom died in World War Two.`</span></div></pre></td></tr></table></figure>
+<p>  <strong><em> 分析如下: </em></strong><br><figure class="highlight"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">汤姆为述说对象，这个句子通常要告诉你有关汤姆的事，具体是什么事呢？就交给</div><div class="line">谓语了。</div></pre></td></tr></table></figure></p>
+<h3 id="谓语"><a href="#谓语" class="headerlink" title="谓语"></a>谓语</h3><figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line">对主语所作的说明</div><div class="line"></div><div class="line">是说话人要传递的新信息</div><div class="line"></div><div class="line">它指出主语是什么不是什么、有什么或没有什么、要什么或不要什么、做了或未做什么</div></pre></td></tr></table></figure>
+<figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line">谓语是<span class="string">`动词`</span>性的</div><div class="line"></div><div class="line">通常由<span class="string">`动词`</span>或<span class="string">`动词词组`</span>担当、</div><div class="line"></div><div class="line">通常以<span class="string">`谓语动词`</span>为中心加（或不加）补充成分（如宾语、补语、状语）</div></pre></td></tr></table></figure>
+<figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">eg. SV</div><div class="line">  <span class="string">`Tom died in World War Two.`</span></div></pre></td></tr></table></figure>
+<p>  <strong><em> 分析如下：</em></strong><br><figure class="highlight autohotkey"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div></pre></td><td class="code"><pre><div class="line">  说汤姆“死了”，居中的`died`构成叙述的主要内容。</div><div class="line">  `至于死在什么时候等，是状语的来表示的细节，且这个细节可有可无`</div><div class="line">  换句话说：只说`Tom died`也是完整的句子（状语在句中可有可无）</div><div class="line"></div><div class="line">`不及物及物动词`：像died这种动作，可以独立发生，不涉及到别的人或物，</div><div class="line">这种动词就叫做不及物动词</div></pre></td></tr></table></figure></p>
+<h3 id="宾语"><a href="#宾语" class="headerlink" title="宾语"></a>宾语</h3><figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">通常跟在<span class="string">`及物动词`</span>之后，做动作的承受者</div></pre></td></tr></table></figure>
+<figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line">有<span class="string">`名词`</span>, <span class="string">`或相当于名词的词`</span>，<span class="string">`词组`</span>及分句担当</div><div class="line"></div><div class="line">少量动词还可以带可带<span class="string">`两个宾语`</span>：两者都是<span class="string">`谓语动词的承受者`</span></div><div class="line">  <span class="string">`直接宾语`</span>：指物</div><div class="line">  <span class="string">`间接宾语`</span>：指人</div></pre></td></tr></table></figure>
+<figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">eg. SVO</div><div class="line">  <span class="string">`Tom killed John`</span></div></pre></td></tr></table></figure>
+<p>  <strong><em> 分析如下：</em></strong><br><figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">  要完成“杀”这个动作就需要有“被杀”的对象</div><div class="line"><span class="string">`及物动词`</span> :像“kill”这个动作，不能独立发生，必须发生在另一位对象上，</div><div class="line">这种动词叫做及物动词</div></pre></td></tr></table></figure></p>
+<figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">eg. SVOO</div></pre></td></tr></table></figure>
+<p>  <strong><em> 分析如下：</em></strong></p>
+<figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">句中的<span class="string">`John`</span>为间接宾语、表示给的对象，<span class="string">`a book`</span>为直接宾语，表示给的具体东西</div></pre></td></tr></table></figure>
+<h3 id="句子与分句"><a href="#句子与分句" class="headerlink" title="句子与分句"></a>句子与分句</h3><figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">独立分句：只有一个分句</div><div class="line">其他分句：是句中的句子或句子的子句</div><div class="line">分句之间只有：<span class="string">`并列`</span>，<span class="string">`从属`</span>两种关系</div></pre></td></tr></table></figure>
+<h3 id="补语"><a href="#补语" class="headerlink" title="补语"></a>补语</h3><figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div></pre></td><td class="code"><pre><div class="line">主语补语：表语</div><div class="line">  补充说明主语，通常说明主语 <span class="string">`是`</span> 什么，</div><div class="line">  解释为 <span class="string">`是`</span> 的动词没有叙述能力，只是连接主语和后面的叙述部分</div><div class="line">  所以此 <span class="string">`动词`</span> 为 <span class="string">`系动词`</span> (Linking verb)</div><div class="line">  跟在这样的动词后面的部分，替代了动词所扮演的角色，补足句子使它获得完整的意思，</div><div class="line">  所以称为”主语补语“</div><div class="line">  </div><div class="line">宾语补语：</div><div class="line">  用来补充说明宾语，说明宾语<span class="string">`是`</span>什么，或<span class="string">`做`</span>什么</div><div class="line">  因此，宾语与补语的关系</div><div class="line">    要么是<span class="string">`是`</span>的关系</div><div class="line">      We found the house empty. 房子<span class="string">`是`</span>什么？</div><div class="line">      可见<span class="string">`empty`</span>为宾补，起补充说明宾语的作用</div><div class="line">    要么是<span class="string">`主动-被动`</span>关系</div><div class="line">      She has asked Tom to come to the party.</div><div class="line">      Tom 与 <span class="string">`come`</span>为主-被动关系</div><div class="line">      <span class="string">`to come to the party`</span>为Tom的补语（不定式）</div></pre></td></tr></table></figure>
+<h3 id="状语"><a href="#状语" class="headerlink" title="状语"></a>状语</h3><figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line">句子五大成分之一，但并不是<span class="string">`必要成分`</span></div><div class="line">去掉状语，在语义上可能有变化，但是在句法的角度依然成立</div><div class="line">eg.</div><div class="line">  Tom died <span class="keyword">in</span> World War Two.</div><div class="line">  去掉末尾的 <span class="keyword">in</span> World War Two 在句法上依然成立</div></pre></td></tr></table></figure>
+<figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div></pre></td><td class="code"><pre><div class="line">状语在本质上是对SVOC所诉事件（发生的时间、地点、原因、</div><div class="line">让步、条件、方式等）进行解释说明</div><div class="line">eg.</div><div class="line">  Tom hit John yesterday.</div><div class="line">  句中状语<span class="string">`yesterday`</span>修饰的是SVOC（Tom hit John）所诉部分</div><div class="line">  即解释说明<span class="string">"Tom hit John"</span>这件事情所发生的<span class="string">`时间`</span></div></pre></td></tr></table></figure>
+<figure class="highlight"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div><div class="line">21</div><div class="line">22</div></pre></td><td class="code"><pre><div class="line">状语可细分为</div><div class="line">  修饰性状语</div><div class="line">    即我们通常所说的状语，其功能是修饰句子</div><div class="line">    使用`副词(短语)`,`介词短语`,`不定式短语`，</div><div class="line">    `分词短语`,以及分句修饰所诉事件,解释说明事件</div><div class="line">    发生的的时间，地点，条件，原因等</div><div class="line">    eg. SV</div><div class="line">      Tom died in World War Two</div><div class="line">      其中`in World War Two`就是介词短语做状语，解释</div><div class="line">      明Tom死的时间</div><div class="line">  评注性状语</div><div class="line">    表明说话人对话语的态度或看法，通常位于句首</div><div class="line">    （也可位于句中或句尾）常用`,`隔开。</div><div class="line">    eg.</div><div class="line">      Quite frankly, I'm not surprised.</div><div class="line">      In my opinion and in the opinion of most people, it is </div><div class="line">      a very sound investment</div><div class="line">  连接性状语</div><div class="line">    其在句子间起连接作用，但在句内没有连接能力</div><div class="line">    eg.</div><div class="line">    I thought those figures were correct.However, I have </div><div class="line">    recently heard they were not.</div></pre></td></tr></table></figure>
+<h3 id="定语"><a href="#定语" class="headerlink" title="定语"></a>定语</h3><figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div></pre></td><td class="code"><pre><div class="line">定义：修饰<span class="string">`名词`</span>的词、词组及分句称为定语。</div><div class="line">中心词：被定语修饰的<span class="string">`名词（组）`</span></div><div class="line">前置定语：位于中心词前面的定语</div><div class="line">后置定语：位于中心词后面的定语</div><div class="line">eg.</div><div class="line">  Look at that man standing there.</div><div class="line">  上为祈使句：省略了主语</div><div class="line">  由此可见：定语属于词组，不属于句法</div><div class="line">  上诉有两种译法：(把句子结构与句子意思联系起来)</div><div class="line">    作定语：瞧，站在那儿的是个男人</div><div class="line">    做ing做宾补：瞧，那个男人站在那儿</div></pre></td></tr></table></figure>
+<figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div></pre></td><td class="code"><pre><div class="line">根据定语与中心词的语义逻辑关系分为：</div><div class="line">  限制性定语</div><div class="line">    常翻译为：xxx的</div><div class="line">    位于中心词前（后）都常见</div><div class="line">  非限制性定语</div><div class="line">    常位于中心词后，做后置定语</div><div class="line">    其解释说明中心词的作用，间或起<span class="string">`状语的作用`</span></div><div class="line"></div><div class="line">  eg.</div><div class="line">    In <span class="number">2013</span>, Tom, who was crossing a road, was </div><div class="line">    run over and killed.</div><div class="line"></div><div class="line">    翻译一：然而，<span class="number">2013</span>年，Tom正在横过马路时，却被车轧死了（作状语）</div><div class="line">    翻译二：然而，<span class="number">2013</span>年，正在横过马路的Tom被车轧死了（做后置定语）</div></pre></td></tr></table></figure>
+<h3 id="同位语"><a href="#同位语" class="headerlink" title="同位语"></a>同位语</h3><figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">由两个或两个以上的同一层次的语法单位组成的结构，其中前项后项所指相同，</div><div class="line">句法功能也相同，这种结构叫做同位语结构</div><div class="line">后一成分通常叫前一成分的同位语</div></pre></td></tr></table></figure>
+<figure class="highlight autoit"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line">英语中同位语有多种，最普遍的是名词性同位结构，即名词短语+同位语</div><div class="line">从语义上讲：同位语是对自己的同位项做解释说明作用，所以属于词组的范畴，不是句子的成分。</div><div class="line">eg.</div><div class="line">  The request, <span class="keyword">to</span> <span class="built_in">send</span> money, shocked us.</div><div class="line">  句中的`<span class="keyword">to</span> <span class="built_in">send</span> money`为The request的同位语</div></pre></td></tr></table></figure>
+<h3 id="插入语"><a href="#插入语" class="headerlink" title="插入语"></a>插入语</h3><figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div></pre></td><td class="code"><pre><div class="line">插入语：在话语中插入的，与句子没有直接关系的词语</div><div class="line">插入语常用逗号与句子隔开</div><div class="line">  He will, I believe, recover completly.</div><div class="line">也可用破折号与句子隔开</div><div class="line">  We <span class="keyword">do</span> not agree-our-position is firm-<span class="keyword">with</span> your recommendation.</div><div class="line">还可以用括弧与句子隔开</div><div class="line">  Volswagen (the name means)</div><div class="line">也可以没有隔开标识</div><div class="line">  This tread, which <span class="string">`we believe`</span> is still <span class="keyword">in</span> its infancy, effectively began <span class="keyword">with</span> retails.</div></pre></td></tr></table></figure>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;句子有五大成分&quot;&gt;&lt;a href=&quot;#句子有五大成分&quot; class=&quot;headerlink&quot; title=&quot;句子有五大成分&quot;&gt;&lt;/a&gt;句子有五大成分&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;主语(Subject)&lt;/li&gt;
+&lt;li&gt;谓语(Verb)&lt;/li&gt;
+&lt;li&gt;宾语(Ob
+    
+    </summary>
+    
+      <category term="句法的学习" scheme="http://powerformer.com/categories/%E5%8F%A5%E6%B3%95%E7%9A%84%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+      <category term="English" scheme="http://powerformer.com/tags/English/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>React-Router</title>
+    <link href="http://powerformer.com/2017/03/21/React-Router/"/>
+    <id>http://powerformer.com/2017/03/21/React-Router/</id>
+    <published>2017-03-21T06:46:57.000Z</published>
+    <updated>2017-03-21T06:46:57.000Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>road</title>
+    <link href="http://powerformer.com/2017/03/20/road/"/>
+    <id>http://powerformer.com/2017/03/20/road/</id>
+    <published>2017-03-20T12:43:30.000Z</published>
+    <updated>2017-03-22T12:01:54.000Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="路"><a href="#路" class="headerlink" title="路"></a>路</h3><p>  喜欢路，很长的路，很远的路，这路上有人，有风景。</p>
+<p>  喜欢灰蒙蒙的天气。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;路&quot;&gt;&lt;a href=&quot;#路&quot; class=&quot;headerlink&quot; title=&quot;路&quot;&gt;&lt;/a&gt;路&lt;/h3&gt;&lt;p&gt;  喜欢路，很长的路，很远的路，这路上有人，有风景。&lt;/p&gt;
+&lt;p&gt;  喜欢灰蒙蒙的天气。&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>lovePeople</title>
+    <link href="http://powerformer.com/2017/03/20/lovePeople/"/>
+    <id>http://powerformer.com/2017/03/20/lovePeople/</id>
+    <published>2017-03-20T12:22:20.000Z</published>
+    <updated>2017-03-21T02:52:54.000Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="因为是你，所以是斯嘉丽·约翰逊"><a href="#因为是你，所以是斯嘉丽·约翰逊" class="headerlink" title="因为是你，所以是斯嘉丽·约翰逊"></a>因为是你，所以是斯嘉丽·约翰逊</h3><h4 id="不知道怎么的，第一眼看到你，就很不知所措，莫名其妙的。当时的我在想，“这世"><a href="#不知道怎么的，第一眼看到你，就很不知所措，莫名其妙的。当时的我在想，“这世" class="headerlink" title="不知道怎么的，第一眼看到你，就很不知所措，莫名其妙的。当时的我在想，“这世"></a>不知道怎么的，第一眼看到你，就很不知所措，莫名其妙的。当时的我在想，“这世</h4><h4 id="间竟有如此美丽的人儿！”-使得，我爱上了你。无论是容颜，还是你处在人群中的样子，"><a href="#间竟有如此美丽的人儿！”-使得，我爱上了你。无论是容颜，还是你处在人群中的样子，" class="headerlink" title="间竟有如此美丽的人儿！”,使得，我爱上了你。无论是容颜，还是你处在人群中的样子，"></a>间竟有如此美丽的人儿！”,使得，我爱上了你。无论是容颜，还是你处在人群中的样子，</h4><h4 id="抑或…电影里的威武英姿。"><a href="#抑或…电影里的威武英姿。" class="headerlink" title="抑或…电影里的威武英姿。"></a>抑或…电影里的威武英姿。</h4>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;因为是你，所以是斯嘉丽·约翰逊&quot;&gt;&lt;a href=&quot;#因为是你，所以是斯嘉丽·约翰逊&quot; class=&quot;headerlink&quot; title=&quot;因为是你，所以是斯嘉丽·约翰逊&quot;&gt;&lt;/a&gt;因为是你，所以是斯嘉丽·约翰逊&lt;/h3&gt;&lt;h4 id=&quot;不知道怎么的，第一眼看到你
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>接下来的写作计划</title>
